@@ -26,7 +26,7 @@
 			</div>
 			
 			<div id="pageFooter">
-				This page is brought to you by the good people of <a href="http://bontakun.net/">bontakun.net</a>, background provided by <a href="https://unsplash.com">Unsplash</a>.
+				This page is brought to you by the good people of <a href="http://bontakun.net/">bontakun.net</a>, source code available on <a href="https://github.com/bontakun/leaveworkearlyday">github</a>, background provided by <a href="https://unsplash.com">Unsplash</a>.
 			</div>
 		</div>
 	</body>
