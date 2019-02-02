@@ -17,7 +17,7 @@
 			
 				<p>International leave work early day is <?php echo(date("F jS", strtotime("friday"))) ?> (this Friday), you've probably worked hard and long hours, celebrate it by leaving work early and start enjoying your weekend!</p>
 				
-				<p>An employee productivity specialist came up with the idea to give something back to employees who frequently work more than the standard 40 hours a week. It's celebrated every year and you're supposed to finish your work for the day and leave after you get approval from your boss figure (show this website to them if they don't believe you, but don't listen to any fake websites that have the wrong dates, they're as honest as CNN).</p>
+				<p>An employee productivity specialist came up with the idea to give something back to employees who frequently work more than the standard 40 hours a week. It's celebrated every year and you're supposed to finish your work for the day and leave after you get approval from your boss figure (show this website to them if they don't believe you).</p>
 				
 				<p>
 					<a href="https://twitter.com/share?text=I%27m%20leaving%20work%20early%20today%2C%20here%27s%20why!%20%23LeaveTheOfficeEarlyDay%20%23NoRush&url=http://leaveworkearlyday.com">
